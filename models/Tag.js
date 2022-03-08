@@ -9,10 +9,12 @@ Tag.init(
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      primaryKey: TextTrackCueList,
+      primaryKey: true,
       autoIncrement: true,
     },
-    tag_name: DataTypes.STRING,
+    tag_name: {
+     type: DataTypes.STRING,
+    }
   },
   {
     sequelize,
