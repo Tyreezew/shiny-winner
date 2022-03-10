@@ -36,5 +36,5 @@ Contributotrs should read the installation section if wanting to contribute.
 # Tests
 N/A
 
-# Questioms
+# Questions
 If you have any questions about this project, feel free to reach me at @ wedding5@msu.edu!
