@@ -25,7 +25,7 @@ This application will allow users to view, add, edit, and delete categories, pro
 ## Walkthrough Videos
 https://drive.google.com/file/d/12W9T959KLke5OEYH4XjJRXFQ-YHkDJOo/view
 https://drive.google.com/file/d/1ZNnx-zMln3jMIsUi_oKXK_GQo18j5Z89/view
-https://drive.google.com/file/d/1ooSpIUcNmHt4JcgkxUWxwurW2KqVBO3L/view
+https://drive.google.com/file/d/1Dn9tB7TxfzLq3ufdIP6et47viXIOcv99/view
 
 
 # License
